@@ -3,8 +3,11 @@
 #Central banks communication textual database 2000-2022 (decisions + minutes)
 
 List of central banks ('CB'):
+
 BOI: Bank of Israel 
+
 BoC: Bank of Canada
+
 BoE: Bank of England 
 BoJ: Bank of Japan
 CBR: Central Bank of Russia
