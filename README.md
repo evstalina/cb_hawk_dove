@@ -35,3 +35,5 @@ USFED: The Federal Reserve System is the central bank of the United States
 BoK: Bank of Korea
 
 BoT: Bank of Thailand
+
+BoB: Bank of Brazil
