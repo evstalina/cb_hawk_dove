@@ -37,3 +37,6 @@ BoK: Bank of Korea
 BoT: Bank of Thailand
 
 BoB: Bank of Brazil
+
+
+CB_communication_speeches.csv contains speeches/opening remarks to monetary policy decisions. 
